@@ -19,7 +19,7 @@ The goal of the project is to create the very first Data Management Plan (DMP) f
 
 Peroni, S., & Shotton, D. (2020). OpenCitations, an infrastructure organization for open scholarship. Quantitative Science Studies, 1(1), 428–444. https://doi.org/10.1162/qss_a_00023
 
-Daquino, M., Peroni, S., Shotton, D., Colavizza, G., Ghavimi, B., Lauscher, A., Mayr, P., Romanello, M., & Zumstein, P. (2020). The OpenCitations Data Model. The Semantic Web – ISWC 2020, 12507, 447–463. https://doi.org/10.1007/978-3-030-62466-8_28
+Daquino, M., Peroni, S., Shotton, D., Colavizza, G., Ghavimi, B., Lauscher, A., Mayr, P., Romanello, M., & Zumstein, P. (2020). The OpenCitations Data Model. The Semantic Web – ISWC 2020, 12507, 447–463. https://doi.org/10.1007/978-3-030-62466-8_28 - OA at http://arxiv.org/abs/2005.11981
 
 Persiani, S., Daquino, M., & Peroni, S. (2022). A Programming Interface for Creating Data According to the SPAR Ontologies and the OpenCitations Data Model. In P. Groth, M.-E. Vidal, F. Suchanek, P. Szekley, P. Kapanipathi, C. Pesquita, H. Skaf-Molli, & M. Tamper (Eds.), The Semantic Web (Vol. 13261, pp. 305–322). Springer. https://doi.org/10.1007/978-3-031-06981-9_18 - OA at https://2022.eswc-conferences.org/wp-content/uploads/2022/05/paper_69_Persiani_et_al.pdf
 
